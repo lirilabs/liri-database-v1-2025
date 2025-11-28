@@ -1,63 +1,7 @@
 {
   "date": "2025-11-28",
   "items": [
-    {
-      "id": "msg_1764346578734_924472",
-      "senderId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "receiverId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "category": "dedication",
-      "videoUrl": "hi",
-      "timestamp": 1764346579
-    },
-    {
-      "id": "msg_1764346665211_651842",
-      "senderId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "receiverId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "category": "dedication",
-      "videoUrl": "hi",
-      "timestamp": 1764346616
-    },
-    {
-      "id": "msg_1764346700626_890393",
-      "senderId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "receiverId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "category": "reel",
-      "videoUrl": "hi",
-      "timestamp": 1764346701
-    },
-    {
-      "id": "msg_1764346776466_857441",
-      "senderId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "receiverId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "category": "dedication",
-      "videoUrl": "hh",
-      "timestamp": 1764346727
-    },
-    {
-      "id": "msg_1764346860467_599839",
-      "senderId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "receiverId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "category": "dedication",
-      "videoUrl": "hi",
-      "timestamp": 1764346861
-    },
-    {
-      "id": "msg_1764346877835_586708",
-      "senderId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "receiverId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "category": "dedication",
-      "videoUrl": "hi",
-      "timestamp": 1764346828
-    },
-    {
-      "id": "msg_1764347003808_809601",
-      "senderId": "lr1OAExe4iNKgUAjvayrY97T7F93",
-      "receiverId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
-      "category": "dedication",
-      "videoUrl": "hello",
-      "timestamp": 1764347005
-    },
-    {
+       {
       "id": "msg_1764348397661_11527",
       "senderId": "lr1OAExe4iNKgUAjvayrY97T7F93",
       "receiverId": "sZW0Wr8JyWNNiRcB0N47SZCK8fH3",
